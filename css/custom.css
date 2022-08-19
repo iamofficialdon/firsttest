@@ -1,0 +1,39 @@
+.jumbotron{
+
+
+
+	height: 400px;
+}
+
+
+
+.navbar{
+
+
+	background-color: whitesmoke;
+
+
+
+
+}
+
+.navbar ul{
+	color: white;
+}
+
+
+.navbar ul li:hover{
+	color: white;
+	background-color: black;
+}
+
+.navbar ul a{
+	color:  #000;
+}
+
+.navbar ul li a:hover{
+ color: white;
+}
+
+
+
